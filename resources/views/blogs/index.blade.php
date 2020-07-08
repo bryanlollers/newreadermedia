@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')New Reader Media's best, most informative blogs on a variety of topics.@endsection
-@section('og-title')New Reader Media's best, most informative blogs on a variety of topics.@endsection
-@section('meta-description')We find the coolest stuff and curate it for your delectation. We've got a bunch of great topics for the inquiring mind. From haunted houses to SEO techniques. See them here now.@endsection
+@section('title')New Reader Media's Best Topics @endsection
+@section('og-title')New Reader Media's Best Topics @endsection
+@section('meta-description')Read new informative articles and inspiring blog posts from New Reader Media, a marketing and publicity firm for enterprising creatives and artists.@endsection
 @section('content')
 <div class="container">
     <div class="row">

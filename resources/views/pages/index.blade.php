@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')New Reader Media - Home @endsection
-@section('og-title')New Reader Media - Home @endsection
-@section('meta-description')New Reader Media has the marketing and promotional services your book needs. Bookstore displays, screenplays and beyond!@endsection
+@section('title')New Reader Media Creative Marketing and PR Firm @endsection
+@section('og-title')New Reader Media Creative Marketing and PR Firm @endsection
+@section('meta-description')New Reader Media helps you connect with your audiences by crafting and optimizing your brand through strategic marketing, ad and PR services. @endsection
 @section('content')
 <div class="container">
     <div class="row">

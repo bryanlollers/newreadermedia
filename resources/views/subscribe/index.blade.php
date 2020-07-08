@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')Subscribe to New Reader Media @endsection
-@section('og-title')Subscribe to New Reader Media @endsection
-@section('meta-description')Sign up for free newsletters and get more of New Reader Media delivered to your inbox.@endsection
+@section('title')Subscribe Now - New Reader Media @endsection
+@section('og-title')Subscribe Now - New Reader Media @endsection
+@section('meta-description')New Reader Media is a marketing and publicity firm to help creatives and artists connect with their audiences. Sign up now for free newsletters!@endsection
 @section('content')
 <div class="container">
     <div class="row">

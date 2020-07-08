@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('title')9 Reasons Why Bookstores Are Still The Real Deal @endsection
 @section('og-title')9 Reasons Why Bookstores Are Still The Real Deal @endsection
-@section('meta-description')People say bookstores are a thing of the past. But are they really? Find out about bookstores and bookstore displays. Get the low-down on this awesome advertising tool.@endsection
+@section('meta-description')Learn about why bookstores are still the real deal today and how nothing will ever truly come close to visiting them. Read more from New Reader Media!@endsection
 @section('og-image'){{{ url('public/storage/services/bookstore-v2-1.jpg') }}}@endsection
 @section('og-url'){{{ url('/bookstore-display') }}}@endsection
 @section('content')

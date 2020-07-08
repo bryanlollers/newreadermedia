@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')Spread the word about you and your brand with New Reader Media press releases.@endsection
-@section('og-title')Spread the word about you and your brand with New Reader Media press releases.@endsection
-@section('meta-description')Keep up to date with what's going on in the New Reader Media and our partners. Find all the latest New Reader Media news and updates here. Read all the newest stories, contests, and more.@endsection
+@section('title')Press Release - Spread the word about you and your brand @endsection
+@section('og-title')Press Release - Spread the word about you and your brand @endsection
+@section('meta-description')The New Reader magazine, a quarterly, literary, and cultural journal covering fiction and non-fiction works, poetry etc. is out now from New Reader Media!@endsection
 @section('content')
 <div class="container">
     <div class="row">

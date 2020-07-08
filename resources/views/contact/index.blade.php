@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')Contact New Reader Media @endsection
-@section('og-title')Contact New Reader Media @endsection
-@section('meta-description')If you have business inquiries or other questions, please fill out the following form to contact us.@endsection
+@section('title')Contact Us - New Reader Media @endsection
+@section('og-title')Contact Us - New Reader Media @endsection
+@section('meta-description')New Reader Media is a marketing and publicity firm for artists, enterprising creatives, independent authors as well as film-makers. Contact us now!@endsection
 @section('content')
 <div class="container">
     <div class="row">

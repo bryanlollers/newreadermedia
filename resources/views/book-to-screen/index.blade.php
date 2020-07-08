@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')Let’s turn your book into a movie @endsection
-@section('og-title')Let’s turn your book into a movie @endsection
-@section('meta-description')If you and your audience can picture the plot and characters inside your head, then think about elevating those images and seeing the actual event right before your eyes. This is what screenplay adaptation aims. They take a book and rewrite it to ensure that the story works as a film.@endsection
+@section('title')New Reader Media's Screen Adaptation @endsection
+@section('og-title')New Reader Media's Screen Adaptation @endsection
+@section('meta-description')New Reader Media helps you turn your book into film! Our creative staff will guide you and work with you to make a fantastic screenplay out of your book!@endsection
 @section('og-image'){{{ url('public/storage/services/adapted-screenplay-v2-1.jpg') }}}@endsection
 @section('og-url'){{{ url('/screen-adaptation') }}}@endsection
 @section('content')

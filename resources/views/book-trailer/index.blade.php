@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')Sneak Peeks: Why do you need them @endsection
-@section('og-title')Sneak Peeks: Why do you need them @endsection
-@section('meta-description')Sneak Peeks have been gaining a lot of interest from the self-published authors lately for a good reason.  Sneak Peeks are ultra-short and cinematic videos which follow the same principle as movie trailers. In less than two minutes, it presents a book’s story while teasing audiences with its best parts.@endsection
+@section('title')Sneak Peeks: Why do you need them - New Reader Media @endsection
+@section('og-title')Sneak Peeks: Why do you need them - New Reader Media @endsection
+@section('meta-description')Get a charge of the newest and most awesome sneak peeks and incredible book trailers creatively made by New Reader Media. Go check them out now!@endsection
 @section('og-image'){{{ url('public/storage/services/sneak-peeks-v2-1.jpg') }}}@endsection
 @section('og-url'){{{ url('/sneak-peek') }}}@endsection
 @section('content')

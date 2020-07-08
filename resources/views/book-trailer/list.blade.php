@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title')Check out the latest book trailers made by New Reader Media.@endsection
-@section('og-title')Check out the latest book trailers made by New Reader Media.@endsection
-@section('meta-description')Book trailers have been proven to be an effective marketing tool. Where everything is shareable, we showcase not only the works but offer readers a chance to experience the authors on a personal level.@endsection
+@section('title')Check out the latest book trailers made by New Reader Media @endsection
+@section('og-title')Check out the latest book trailers made by New Reader Media @endsection
+@section('meta-description')These are some spectacular sneak peeks and incredibly creative book trailers created by New Reader Media. Check them out now and enjoy watching!@endsection
 @section('content')
 <div class="container">
     <div class="row">
